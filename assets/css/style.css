@@ -95,12 +95,13 @@
   display: inline-block;
   border-radius: 5px;
   -webkit-border-radius: 5px;
+
 }
 
-/* .readme:hover{
+.readme:hover{
   color: white;
   background-color: #00796b;
-} */
+}
 
 .contactme {
   position: relative;
